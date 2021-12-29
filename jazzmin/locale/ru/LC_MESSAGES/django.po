@@ -30,11 +30,6 @@ msgstr "Аккаунт"
 msgid "See Profile"
 msgstr "Профиль"
 
-#: templates/admin/base.html:209 templates/admin/index.html:7
-#: templates/admin/index.html:12
-msgid "Dashboard"
-msgstr "Админпанель"
-
 #: templates/admin/base.html:322
 msgid "Jazzmin version"
 msgstr "Jazzmin Version"
